@@ -127,7 +127,7 @@
     <h1>Sthefany... <br>¿Quieres ser mi San Valentín?💘</h1>
 
     <button class="btn-si" onclick="cambiarPantalla(2)">
-      Si
+      Yes
     </button>
 
     <button id="no" class="btn-no">
